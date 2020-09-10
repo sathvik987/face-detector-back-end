@@ -5,4 +5,4 @@
 
 Get your clarifai API key [here](https://www.clarifai.com/)
 
-**Use postgreSQL for this code base.
+**Use postgreSQL for this code base**
