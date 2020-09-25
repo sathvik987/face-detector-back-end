@@ -1,3 +1,7 @@
+/* Create a database called 'smartbrain' in postgresql and run following query. By default user: 'postgres'and password: '123' in used.
+You can change user,password and database names in server.js file.
+*/
+
 create table users(
 	id serial primary key,
 	name varchar(100),
