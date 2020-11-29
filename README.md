@@ -1,4 +1,4 @@
-[Front-end](https://github.com/sathvik987/face-detector-front-end).
+#### [Front-end](https://github.com/sathvik987/face-detector-front-end)
 
 1. Clone this repo
 2. Run `npm install`
